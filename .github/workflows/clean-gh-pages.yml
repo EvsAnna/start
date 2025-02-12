@@ -3,7 +3,7 @@ name: Clean GitHub Pages History
 on:
   push:
     branches:
-      - main  # Вы можете указать вашу основную ветку, если она отличается
+      - master  # Вы можете указать вашу основную ветку, если она отличается
 
 jobs:
   clean-gh-pages:
